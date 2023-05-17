@@ -77,5 +77,7 @@ Install as Windows Service (make sure "Launch my sql server..."is checked)
  Username: root
  
  Password: Password1
+ 
+ Execute and Finish
 </p>
 <br />
