@@ -74,7 +74,7 @@ Install as Windows Service (make sure "Launch my sql server..."is checked)
 
  Example Credentials:
 
- Username: Root
+ Username: root
  
  Password: Password1
 </p>
