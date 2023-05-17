@@ -75,6 +75,7 @@ From the Installation Files, download and install MySQL 5.5.62 (mysql-5.5.62-win
  Example Credentials:
 
  Username: Root
+ 
  Password: Password1
 </p>
 <br />
