@@ -4,7 +4,7 @@
 
 <h1>osTicket - Prerequisites and Installation</h1>
 
-In this tutorial, we will explore the step-by-step installation process for osTicket and the essential prerequisites required for a successful setup. The chosen platform for installation is an Azure VM (Virtual Machine). It is assumed that you already have a VM ready and have logged in using a remote desktop connection. If you haven't created a VM yet, kindly do so before proceeding to the next step. To begin, please click the provided link to access the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">installation files.</a>
+In this tutorial, we will explore the step-by-step installation process for osTicket and the essential prerequisites required for a successful setup. The chosen platform for installation is an Azure VM (Virtual Machine). It is assumed that you already have a VM ready and have logged in using a remote desktop connection. If you haven't created a VM yet, kindly do so before proceeding to the next step. If you are unsure how to do so, then proceed to here. To begin, please click the provided link to access the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">installation files.</a>
 
 
 
