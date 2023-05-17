@@ -61,3 +61,15 @@ Create new file in your directory C:\PHP
 From the Installation Files, download and install VC_redist.x86.exe
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/aGDsJBc.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+From the Installation Files, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+- Typical Setup ->
+- Launch Configuration Wizard (after install) ->
+- Standard Configuration ->
+- Password1
+</p>
+<br />
