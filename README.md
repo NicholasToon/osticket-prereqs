@@ -50,6 +50,6 @@ From the Installation Files, download and install PHP Manager for IIS (PHPManage
 <img src= "https://i.imgur.com/NroRYT8.png"/>
 </p>
 <p>
-Create directory C:\PHP
+Create new file in your directory C:\PHP
 </p>
 <br />
