@@ -63,13 +63,16 @@ From the Installation Files, download and install VC_redist.x86.exe
 <br />
 
 <p>
-<img src="https://i.imgur.com/aGDsJBc.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EtXiK5q.png"/>
 </p>
 <p>
 From the Installation Files, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
 - Typical Setup ->
 - Launch Configuration Wizard (after install) ->
 - Standard Configuration ->
-- Password1
+- Install as Windows Service (make sure "Launch my sql server..."is checked) ->
+- Example Credentials
+ Username: Root
+ Password: Password1
 </p>
 <br />
