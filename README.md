@@ -57,6 +57,22 @@ Create the directory C:\PHP
 <br />
 
 <p>
+<img src= "https://i.imgur.com/ag11MQq.png"/>
+</p>
+<p>
+
+<p>
+<img src= "https://i.imgur.com/fOKwoV9.png"/>
+</p>
+<p>
+
+Unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into C:\PHP From the installation files
+
+Double-Click on PHP-7.3.8 -> Extract All -> Browse -> This PC -> Windows (C:) -> Click PHP -> Select Folder -> Extract
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/ILcg219.png"/>
 </p>
 <p>
