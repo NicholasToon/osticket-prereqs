@@ -29,12 +29,12 @@ In this tutorial, we will explore the step-by-step installation process for osTi
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/HU0jjnj.png"/>
+<img src="https://i.imgur.com/TIe1QvB.png"/>
 </p>
 <p>
 <h3>Install / Enable IIS in Windows WITH CGI</h3>
 
-Under Control Panel -> Programs -> Turn Windows Features on or off -> Internet information services -> World Wide Web Services -> Application Development Features -> [√] CGI -> Press OK </h3>
+Under Control Panel -> Programs -> Turn Windows Features on or off -> Internet information services ->  Web Managment Tools -> [√] IIS Managment Console -> World Wide Web Services -> Application Development Features -> [√] CGI -> Press OK </h3>
 </p>
 <br />
 
