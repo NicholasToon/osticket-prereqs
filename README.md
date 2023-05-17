@@ -17,7 +17,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>List of Prerequisites (Create Virtual Machine in Azure</h2>
 
 - Item 1
 - Item 2
