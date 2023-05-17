@@ -4,7 +4,7 @@
 
 <h1>osTicket - Prerequisites and Installation</h1>
 
-In this tutorial, we will explore the step-by-step installation process for osTicket and the essential prerequisites required for a successful setup. The chosen platform for installation is an Azure VM (Virtual Machine). It is assumed that you already have a VM ready and have logged in using a remote desktop connection. If you haven't created a VM yet, kindly do so before proceeding to the next step. If you are unsure how to do so, then proceed to here. To begin, please click the provided link to access the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">installation files. </a> 
+In this tutorial, we will explore the step-by-step installation process for osTicket and the essential prerequisites required for a successful setup. The chosen platform for installation is an Azure VM (Virtual Machine). It is assumed that you already have a VM ready and have logged in using a remote desktop connection. If you haven't created a VM yet, kindly do so before proceeding to the next step. If you are unsure how to do so, then proceed to here. To begin, please click the provided link to access the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> INSTALLATION FILES. </a> 
 
 (If you are having trouble downloading PHP 7.3.8, download and install Google Chrome and perform it from within there.)
 
@@ -34,7 +34,7 @@ In this tutorial, we will explore the step-by-step installation process for osTi
 <p>
 <h3>Install / Enable IIS in Windows WITH CGI</h3>
 
-Under Control Panel -> Programs -> Turn Windows Features on or off -> Internet information services -> World Wide Web Services -> Application Development Features -> [X] CGI -> Press OK </h3>
+Under Control Panel -> Programs -> Turn Windows Features on or off -> Internet information services -> World Wide Web Services -> Application Development Features -> [√] CGI -> Press OK </h3>
 </p>
 <br />
 
@@ -50,7 +50,9 @@ From the Installation Files, download and install PHP Manager for IIS (PHPManage
 <img src= "https://i.imgur.com/NroRYT8.png"/>
 </p>
 <p>
-Create new file in your directory C:\PHP
+Create the directory C:\PHP
+
+ Open File Explorer -> This PC -> Windows (C:) Drive -> Right Click to add NEW FOLDER -> name it "PHP"
 </p>
 <br />
 
@@ -77,5 +79,13 @@ Install as Windows Service (make sure "Launch my sql server..."is checked) -> Ex
  Username: root
  
  Password: Password1
+</p>
+<br />
+
+<p>
+<img src=""/>
+</p>
+<p>
+Type IIS in start menu -> Click on RUN AS ADMINISTRATOR > Select PHP MANAGER > Select Register new PHP Version > Click BROWSE > Select PHP CGI (make sure php executable) > ok > Click RESTART
 </p>
 <br />
