@@ -70,8 +70,9 @@ From the Installation Files, download and install MySQL 5.5.62 (mysql-5.5.62-win
 - Typical Setup ->
 - Launch Configuration Wizard (after install) ->
 - Standard Configuration ->
-- Install as Windows Service (make sure "Launch my sql server..."is checked) ->
-- Example Credentials
+- Install as Windows Service (make sure "Launch my sql server..."is checked)
+
+ - Example Credentials
 
  Username: Root
  
