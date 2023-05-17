@@ -83,9 +83,18 @@ Install as Windows Service (make sure "Launch my sql server..."is checked) -> Ex
 <br />
 
 <p>
+<img src="https://i.imgur.com/LDrudOO.png"/>
+</p>
+<p>
+From the Installation Files, download and install Rewrite Module (rewrite_amd64_en-US.msi)
+</p>
+<br />
+
+<p>
 <img src=""/>
 </p>
 <p>
 Type IIS in start menu -> Click on RUN AS ADMINISTRATOR > Select PHP MANAGER > Select Register new PHP Version > Click BROWSE > Select PHP CGI (make sure php executable) > ok > Click RESTART
 </p>
 <br />
+
