@@ -53,3 +53,11 @@ From the Installation Files, download and install PHP Manager for IIS (PHPManage
 Create new file in your directory C:\PHP
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/ILcg219.png"/>
+</p>
+<p>
+From the Installation Files, download and install VC_redist.x86.exe
+</p>
+<br />
