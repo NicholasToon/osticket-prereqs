@@ -8,7 +8,7 @@ In this tutorial, we will explore the step-by-step installation process for osTi
 
 <h2>
 <p>
-<img src= "[https://imgur.com/a/ztgTKA7](https://i.imgur.com/7gna8d4.png)"/>
+<img src= "https://i.imgur.com/7gna8d4.png"/>
 </p>
  <h/2>
 
