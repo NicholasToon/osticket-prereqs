@@ -6,7 +6,7 @@
 
 In this tutorial, we will explore the step-by-step installation process for osTicket and the essential prerequisites required for a successful setup. The chosen platform for installation is an Azure VM (Virtual Machine). It is assumed that you already have a VM ready and have logged in using a remote desktop connection. If you haven't created a VM yet, kindly do so before proceeding to the next step. If you are unsure how to do so, then proceed to here. To begin, please click the provided link to access the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">installation files. </a> 
 
-(If you are having trouble downloading PHP 7.3.8, please try downloading and installing Google Chrome and doing it from within there.)
+(If you are having trouble downloading PHP 7.3.8, download and install Google Chrome and perform it from within there.)
 
 <h2>
 <p>
