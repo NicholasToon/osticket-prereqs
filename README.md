@@ -26,13 +26,15 @@ In this tutorial, we will explore the step-by-step installation process for osTi
 
 - Windows 10</b> (21H2)
 
-<h2>Install / Enable IIS in Windows WITH CGI</h2>
+<h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HU0jjnj.png"/>
 </p>
 <p>
-.
+<h3>Install / Enable IIS in Windows WITH CGI</h3>
+
+Under Control Panel -> Programs -> Turn Windows Features on or off -> Internet information services -> World Wide Web Services -> Application Development Features -> [X] CGI Enable IIS in Windows WITH CGI</h3>
 </p>
 <br />
 
