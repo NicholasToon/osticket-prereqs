@@ -199,6 +199,11 @@ After Installation, HeidiSQL will launch
  <img src= https://i.imgur.com/28qtUOW.png />
 </p>
 
+<p>
+ <img src= https://i.imgur.com/ZubiYLY.png  />
+</p>
+
+New -> Enter password we created earlier for mysql (example: Password1)-> Open -> Right Click Unamed -> Create New -> Database (Name it osTicket) -> OK
 
 
 
