@@ -34,7 +34,12 @@ In this tutorial, we will explore the step-by-step installation process for osTi
 <p>
 <h3>Install / Enable IIS in Windows WITH CGI</h3>
 
-Under Control Panel -> Programs -> Turn Windows Features on or off -> Internet information services ->  Web Managment Tools -> [√] IIS Managment Console -> World Wide Web Services -> Check boxes on <ins>Common HTTP Features, Health and Diagnostics, Performance Features, and Security</ins> -> Application Development Features -> [√] CGI -> Press OK </h3>
+Under Control Panel -> Programs -> Turn Windows Features on or off -> Internet information services ->  Web Managment Tools -> [√] IIS Managment Console -> World Wide Web Services -> Check boxes on <ins>Common HTTP Features, Health and Diagnostics, Performance Features, and Security</ins> -> Application Development Features -> [√] CGI -> Press OK (To conduct a preliminary test of your server, please open a new tab in your browser and enter 127.0.0.1. Upon doing so, you should be able to successfully load the default Internet Information Services webpage.)
+
+
+
+
+ </h3>
 </p>
 <br />
 
@@ -157,4 +162,4 @@ Open osTicket v1.15.8 from your Installation Files Folder -> Extract and copy �
 </p>
 <p>
  
- Once the server has been effectively restarted -> Sites -> Default Web Site -> osTicket (Double-Click) -> Browse 80*
+ Once the server has been effectively restarted -> Sites -> Default Web Site -> osTicket (Double-Click) -> Browse *80
