@@ -213,4 +213,14 @@ Rename ost-sampleconfig.php to ost-config.php
 
 Windows (C:) Drive -> inetpub -> wwwroot -> osTicket -> include -> Right click on ost-sampleconfig.php and rename it to ost-config.php
 
+<p>
+ <img src= https://i.imgur.com/NVQhD5Q.png />
+</p>
 
+<p>
+ <img src= https://i.imgur.com/Gv3GHNE.png />
+</p>
+
+Assigning Permissions:
+
+Right click on ost-config.php -> Properties -> Security -> Advanced -> Disable Inheritance -> Remove all inherited positions from this object -> Select Permissions (It's next to Auditing and Effective Access) -> Add -> Select a Principal > Type: Everyone > Check Names > OK
