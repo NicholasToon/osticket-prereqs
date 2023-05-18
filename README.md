@@ -107,10 +107,31 @@ From the Installation Files, download and install Rewrite Module (rewrite_amd64_
 <br />
 
 <p>
+<img src="https://i.imgur.com/NFB05iU.png"/>
+</p>
+<p>
+ 
+ <p>
+<img src="https://i.imgur.com/2WxwC73.png"/>
+</p>
+<p>
+ 
+ <p>
+<img src="https://i.imgur.com/PxVuU6E.png"/>
+</p>
+<p>
+ 
+ <p>
+<img src="https://i.imgur.com/NUWgQUe.png"/>
+</p>
+<p>
+ 
+ <p>
 <img src=""/>
 </p>
 <p>
-Type IIS in start menu -> Click on RUN AS ADMINISTRATOR > Select PHP MANAGER > Select Register new PHP Version > Click BROWSE > Select PHP CGI (make sure php executable) > ok > Click RESTART
+ 
+Type IIS in start menu -> Click on Run As Administrator > Select PHP Manager (Double-Click or Select Open Feature > Select Register new PHP Version > Click BROWSE > Open PHP Folder in Directory -> Select php-cgi (make sure php executable is chosen in file box) -> Open -> OK > Click RESTART
 </p>
 <br />
 
