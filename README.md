@@ -177,7 +177,7 @@ NOTE: some php extensions are disabled (with red Xs) to enable php extensions go
 <img src= "https://i.imgur.com/wIxbfWQ.png"/>
 </p>
 
--> Sites -> Default Web Site -> osTicket > php manager (double-click)> Click on PHP extensions
+Sites -> Default Web Site -> osTicket > php manager (double-click)> Click on PHP extensions
 
 Scroll down list to find:
 
