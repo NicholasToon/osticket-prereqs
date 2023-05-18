@@ -163,3 +163,10 @@ Open osTicket v1.15.8 from your Installation Files Folder -> Extract and copy â€
 <p>
  
  Once the server has been effectively restarted -> Sites -> Default Web Site -> osTicket (Double-Click) -> Browse *80
+ 
+If you did everything correctly, you should have landed on the osTicket webpage. If not, just double-check the steps or give the tutorial another go.
+
+
+
+
+
