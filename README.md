@@ -150,4 +150,4 @@ Type IIS in start menu -> Click on Run As Administrator -> Select PHP Manager (D
 </p>
 <p>
 
-Open osTicket v1.15.8 from your Installation Files Folder -> Extract and copy “upload” folder to c:\inetpub\wwwroot via Browse -> Within c:\inetpub\wwwroot, Rename “upload” to “osTicket” -> Reload IIS (Open IIS, Stop and Start the server)
+Open osTicket v1.15.8 from your Installation Files Folder -> Extract and copy “upload” folder to c:\inetpub\wwwroot via Browse -> Within c:\inetpub\wwwroot, Rename “upload” to “osTicket” (when you're putting the "osTicket" folder inside of "c:\inetpub\wwwroot", make sure it's named exactly "osTicket" with no spaces. If it's not named correctly or has a space, you'll get a "404 page not found") -> Reload IIS (Open IIS, Stop and Start the server)
