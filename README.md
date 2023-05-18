@@ -140,5 +140,14 @@ Type IIS in start menu -> Click on Run As Administrator -> Select PHP Manager (D
 </p>
 <br />
 
-Install 
+ <p>
+<img src="https://i.imgur.com/WhT8AjW.png"/>
+</p>
+<p>
+ 
+  <p>
+<img src="https://i.imgur.com/nw75Ifm.png"/>
+</p>
+<p>
 
+Open osTicket v1.15.8 from your Installation Files Folder -> Extract and copy “upload” folder to c:\inetpub\wwwroot via Browse -> Within c:\inetpub\wwwroot, Rename “upload” to “osTicket” -> Reload IIS (Open IIS, Stop and Start the server)
