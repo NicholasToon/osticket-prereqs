@@ -141,7 +141,7 @@ From the Installation Files, download and install Rewrite Module (rewrite_amd64_
 </p>
 <p>
  
-Type IIS in start menu -> Click on Run As Administrator -> Select PHP Manager (Double-Click or Select Open Feature -> Select Register new PHP Version -> Click BROWSE -> Open PHP Folder in Directory -> Select php-cgi (make sure php executable is chosen in file box) -> Open -> OK -> Use Blue arrows in the top left to return home -> Select PHP Manager -> Click RESTART
+Type IIS in start menu -> Click on Run As Administrator -> Select PHP Manager (Double-Click or Select Open Feature -> Select Register new PHP Version -> Click BROWSE -> Open PHP Folder in Directory -> Select php-cgi (make sure php executable is chosen in file box) -> Open -> OK -> Use blue arrows in the top left to return home -> Select PHP Manager -> Click RESTART
 </p>
 <br />
 
@@ -168,7 +168,7 @@ If you did everything correctly, you should have landed on the osTicket webpage.
  
 
 <p>
-<img src= "https://i.imgur.com/v3u8O2Y.png"/>
+<img src= "https://i.imgur.com/q7FWute.png"/>
 </p>
   
 NOTE: some php extensions are disabled (with red Xs) to enable php extensions go back to IIS 
