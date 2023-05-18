@@ -200,13 +200,13 @@ After Installation, HeidiSQL will launch
 </p>
 
 <p>
- <img src= https://i.imgur.com/ZubiYLY.png  />
+ <img src= https://i.imgur.com/ZubiYLY.png />
 </p>
 
 New -> Enter password we created earlier for mysql (example: Password1)-> Open -> Right Click Unamed -> Create New -> Database (Name it osTicket) -> OK
 
 <p>
-<img scr= https://i.imgur.com/FlgO5Z5.png />
+ <img scr= https://i.imgur.com/FlgO5Z5.png />
 </p>
 
 Rename ost-sampleconfig.php to ost-config.php
