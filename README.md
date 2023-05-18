@@ -205,5 +205,11 @@ After Installation, HeidiSQL will launch
 
 New -> Enter password we created earlier for mysql (example: Password1)-> Open -> Right Click Unamed -> Create New -> Database (Name it osTicket) -> OK
 
+<p>
+<img scr= https://i.imgur.com/FlgO5Z5.png />
+</p>
 
+Rename ost-sampleconfig.php to ost-config.php
+
+Windows (C:) Drive -> inetpub -> wwwroot -> osTicket -> include -> Right click on ost-sampleconfig.php and rename it to ost-config.php
 
