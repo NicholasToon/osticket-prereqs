@@ -197,7 +197,7 @@ After Installation, HeidiSQL will launch
 
 <p>
  https://i.imgur.com/28qtUOW.png
-</P>
+</p>
 
 
 
