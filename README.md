@@ -166,11 +166,10 @@ Open osTicket v1.15.8 from your Installation Files Folder -> Extract and copy â€
  
 If you did everything correctly, you should have landed on the osTicket webpage. If not, just double-check the steps or give the tutorial another go.
  
- <h2>
+
 <p>
 <img src= "https://i.imgur.com/v3u8O2Y.png"/>
 </p>
- <h/2>
   
  NOTE: some php extensions are disabled (with red Xs) to enable php extensions go back to IIS -> Sites -> Default Web Site -> osTicket > php manager (double-click)> Click on PHP extensions. Scroll down list to find:
 
