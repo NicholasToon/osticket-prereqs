@@ -251,6 +251,10 @@ To change permissions go go to: Windows (C:) Drive -> wwwroot -> osTicket -> Inc
  <img src= https://i.imgur.com/hLr5NCX.png />
 </p>
 
+<p>
+ <img src= https://i.imgur.com/dRuV2Rp.png />
+</p>
+
 Finally. Sign in to osTicket: http://localhost/osTicket/scp/login.php
 
 
