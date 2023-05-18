@@ -243,9 +243,9 @@ Remember when filling out the Help Desk information that we already created a pa
 </p>
 The Clean up phase is quite simple, we are going to delete the setup and change permissions back to read only
 
-To delete setup folder go to: Delete: C:\inetpub\wwwroot\osTicket\setup
+To delete setup folder go to: C:\inetpub\wwwroot\osTicket\setup highlight "setup" then delete it
 
-To change permissions go go to: Windows (C:) Drive -> wwwroot -> osTicket -> Include -> scroll down to find ost-config.php and Right click on Properties -> Click SECURITY -> ADVANCED -> Click on EVERYONE > EDIT to only READ and EXECUTE -> OK -> Apply
+To change permissions go go to: Windows (C:) Drive -> wwwroot -> osTicket -> Include -> scroll down to find ost-config.php and Right click on Properties -> Security -> Advanced -> Click on EVERYONE > EDIT to only READ and EXECUTE -> OK -> Apply
 
 <p>
  <img src= https://i.imgur.com/hLr5NCX.png />
