@@ -171,7 +171,14 @@ If you did everything correctly, you should have landed on the osTicket webpage.
 <img src= "https://i.imgur.com/v3u8O2Y.png"/>
 </p>
   
-NOTE: some php extensions are disabled (with red Xs) to enable php extensions go back to IIS -> Sites -> Default Web Site -> osTicket > php manager (double-click)> Click on PHP extensions. Scroll down list to find:
+NOTE: some php extensions are disabled (with red Xs) to enable php extensions go back to IIS -> Sites -> Default Web Site -> osTicket > php manager (double-click)> Click on PHP extensions
+
+
+<p>
+<img src= "https://i.imgur.com/wIxbfWQ.png"/>
+</p>
+
+Scroll down list to find:
 
 Php_imap.dil
 
@@ -180,9 +187,6 @@ Php_intl.dil
 Php_opache.dil
 
 click enable extensions and Restart the server
-
-
-
 
 
 
