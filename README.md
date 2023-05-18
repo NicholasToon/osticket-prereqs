@@ -213,3 +213,4 @@ Rename ost-sampleconfig.php to ost-config.php
 
 Windows (C:) Drive -> inetpub -> wwwroot -> osTicket -> include -> Right click on ost-sampleconfig.php and rename it to ost-config.php
 
+
