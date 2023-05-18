@@ -224,3 +224,11 @@ Windows (C:) Drive -> inetpub -> wwwroot -> osTicket -> include -> Right click o
 Assigning Permissions:
 
 Right click on ost-config.php -> Properties -> Security -> Advanced -> Disable Inheritance -> Remove all inherited positions from this object -> Select Permissions (It's next to Auditing and Effective Access) -> Add -> Select a Principal > Type: Everyone > Check Names > OK -> [√] Full control -> OK
+
+We will now return to osTicket to finish up the Prerequisites. Press Continue and you will have succssessfully installed osTicket. Now to fill in the HELP DESK information (You thought you were done lol?) 
+
+<p>
+ <img src= https://i.imgur.com/Jx6wON4.png />
+</p>
+
+Remember when filling out the Help Desk information that we already created a password and database for mysql and "root" will always be the username
