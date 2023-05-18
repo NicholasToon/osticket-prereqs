@@ -196,7 +196,7 @@ Before pressing continue in osTicket, we will return to the Downloads folder to 
 After Installation, HeidiSQL will launch
 
 <p>
- https://i.imgur.com/28qtUOW.png
+ <img src= https://i.imgur.com/28qtUOW.png />
 </p>
 
 
