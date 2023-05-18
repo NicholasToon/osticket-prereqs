@@ -162,9 +162,21 @@ Open osTicket v1.15.8 from your Installation Files Folder -> Extract and copy â€
 </p>
 <p>
  
- Once the server has been effectively restarted -> Sites -> Default Web Site -> osTicket (Double-Click) -> Browse *80
+ Once the server has been effectively restarted -> Sites -> Default Web Site -> (Double-Click) osTicket -> Browse *80
  
 If you did everything correctly, you should have landed on the osTicket webpage. If not, just double-check the steps or give the tutorial another go.
+ 
+ NOTE: some php extensions are disabled (with red Xs) to enable php extensions go back to IIS -> Sites -> Default Web Site -> osTicket > php manager (double-click)> Click on PHP extensions. Scroll down list to find:
+
+Php_imap.dil
+
+Php_intl.dil
+
+Php_opache.dil
+
+click enable extensions and Restart the server
+
+
 
 
 
