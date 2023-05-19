@@ -230,7 +230,7 @@ Right click on ost-config.php -> Properties -> Security -> Advanced -> Disable I
  <img src= https://i.imgur.com/Pu7Dgs5.png />
 </p>
 
-We will now return to osTicket to finish up the Prerequisites. Now to fill in the HELP DESK information. 
+We will now return to osTicket to finish up the Prerequisites. Press continue and now to fill in the HELP DESK information. 
 
 <p>
  <img src= https://i.imgur.com/Jx6wON4.png />
