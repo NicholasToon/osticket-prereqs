@@ -223,7 +223,7 @@ Windows (C:) Drive -> inetpub -> wwwroot -> osTicket -> include -> Right click o
 
 Assigning Permissions:
 
-Right click on ost-config.php -> Properties -> Security -> Advanced -> Disable Inheritance -> Remove all inherited positions from this object -> Select Permissions (It's next to Auditing and Effective Access) -> Add -> Select a Principal > Type: Everyone > Check Names > OK -> [√] Full control -> OK
+Right click on ost-config.php -> Properties -> Security -> Advanced -> Disable Inheritance -> Remove all inherited positions from this object -> Select Permissions (It's next to Auditing and Effective Access) -> Add -> Select a Principal > Type: Everyone > Check Names > OK -> [√] Full control (It will check the other boxes as well and that's ok) -> OK
 
 
 <p>
