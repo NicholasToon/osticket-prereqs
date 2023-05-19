@@ -245,7 +245,7 @@ The Clean up phase is quite simple, we are going to delete the setup and change 
 
 To delete setup folder go to: C:\inetpub\wwwroot\osTicket\setup highlight "setup" then delete it
 
-To change permissions go go to: Windows (C:) Drive -> wwwroot -> osTicket -> Include -> scroll down to find ost-config.php and Right click on Properties -> Security -> Advanced -> Click on EVERYONE > EDIT to only READ and EXECUTE -> OK -> Apply
+To change permissions go go to: Windows (C:) Drive -> wwwroot -> osTicket -> Include -> scroll down to find ost-config.php and Right click on Properties -> Security -> Advanced -> Click on Everyone -> Edit to Read only -> OK -> Apply
 
 <p>
  <img src= https://i.imgur.com/hLr5NCX.png />
