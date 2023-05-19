@@ -193,7 +193,7 @@ click enable extensions and Restart the server
 <img src= "https://i.imgur.com/NhggCtk.png"/>
 </p>
 Before pressing continue in osTicket, we will return to the Downloads folder to install HeidiSQL ->
-After Installation, HeidiSQL will launch
+After Installation, HeidiSQL will launch (Let it install itself in the C: Drive for ease)
 
 <p>
  <img src= https://i.imgur.com/28qtUOW.png />
