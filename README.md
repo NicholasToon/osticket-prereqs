@@ -95,7 +95,7 @@ Launch Configuration Wizard (after install) ->
 Standard Configuration ->
 Install as Windows Service (make sure "Launch my sql server..."is checked) -> Execute -> Finish
 
- Example Credentials: (These will be used when we launch HeidiSQL)
+ Example Credentials: (These will be used when we download, install, and launch HeidiSQL)
 
  Username: root
  
