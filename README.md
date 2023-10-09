@@ -26,7 +26,7 @@ In this tutorial, we will guide you through the step-by-step installation proces
 
 ## Install / Enable IIS in Windows WITH CGI
 
-Under Control Panel -> Programs -> Turn Windows Features on or off -> Internet information services ->  Web Managment Tools -> [√] IIS Managment Console -> World Wide Web Services -> Check boxes on <ins>Common HTTP Features, Health and Diagnostics, Performance Features, and Security</ins> -> Application Development Features -> [√] CGI -> Press OK (To conduct a preliminary test of your server, please open a new tab in your browser and enter 127.0.0.1. Upon doing so, you should be able to successfully load the default Internet Information Services webpage.)
+Under **Control Panel** -> **Programs** -> **Turn Windows Features on or off** -> **Internet information services** ->  **Web Managment Tools** -> **[√] IIS Managment Console** -> **World Wide Web Services** -> Check boxes on <ins>**Common HTTP Features**, **Health and Diagnostics**, **Performance Features**, and **Security**</ins> -> **Application Development Features** -> **[√] CGI** -> Press **OK** (To conduct a preliminary test of your server, please open a new tab in your browser and enter 127.0.0.1. Upon doing so, you should be able to successfully load the default Internet Information Services webpage.)
 
 
 
@@ -89,12 +89,12 @@ Type "IIS" in the start menu, click "Run As Administrator," select "PHP Manager"
  
 ![Image](https://i.imgur.com/nw75Ifm.png)
 
-Open osTicket v1.15.8 from your Installation Files Folder -> Extract and copy “upload” folder to c:\inetpub\wwwroot via Browse -> Within c:\inetpub\wwwroot, Rename “upload” to “osTicket” (when you're putting the "upload" folder inside of "c:\inetpub\wwwroot", make sure it's renamed exactly "osTicket" with no spaces. If it's not named correctly or has a space, you'll get a "404 page not found") -> Return and Reload IIS (Open IIS, Stop and Start the server)
+Open osTicket v1.15.8 from your Installation Files Folder, extract and copy the "upload" folder to c:\inetpub\wwwroot via Browse. Within c:\inetpub\wwwroot, rename "upload" to "osTicket" (when you're placing the "upload" folder inside "c:\inetpub\wwwroot," make sure it's renamed as "osTicket" exactly, with no spaces. If it's not named correctly or has a space, you'll encounter a '404 page not found' error). Return and reload IIS (Open IIS, stop and start the server).
 
 ![Image](https://i.imgur.com/5LmJK6m.png)
  
- Once the server has been effectively restarted -> Sites -> Default Web Site -> (Double-Click) osTicket -> Browse *80
- 
+Once the server has been effectively restarted, go to "Sites" -> "Default Web Site" -> (Double-Click) "osTicket" -> Browse *80.
+
 If you did everything correctly, you should have landed on the osTicket webpage. If not, just double-check the steps or give the tutorial another go.
  
 
