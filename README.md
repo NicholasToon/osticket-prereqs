@@ -82,7 +82,7 @@ From the Installation Files, download and install Rewrite Module (rewrite_amd64_
  
 ![Image](https://i.imgur.com/8epjq5e.png)
  
-Type "IIS" in the start menu, click "Run As Administrator," select "PHP Manager" (Double-Click or select "Open Feature"), choose "Register a new PHP Version," click "BROWSE," open the PHP Folder in the Directory, select "php-cgi" (ensure that the PHP executable is chosen in the file box), click "Open," click "OK," use the blue arrows in the top left to return home, select "PHP Manager," and click "RESTART" (You can restart the server without highlighting "restart" as well).
+Type "IIS" in the start menu, click **Run As Administrator**, select **PHP Manager** (Double-Click or select **Open Feature**), choose **Register a new PHP Version**, click "BROWSE," open the PHP Folder in the Directory, select "php-cgi" (ensure that the PHP executable is chosen in the file box), click **Open**, click **OK**, use the blue arrows in the top left to return home, select **PHP Manager**, and click **Restart** (You can restart the server without highlighting **Restart** as well).
 
 
 ![Image](https://i.imgur.com/WhT8AjW.png)
