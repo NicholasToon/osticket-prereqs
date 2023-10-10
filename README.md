@@ -18,7 +18,7 @@ In this tutorial, we will guide you through the step-by-step installation proces
 
 ## Operating Systems Used 
 
-- Windows 10</b> (21H2)
+- Windows (21H2)
 
 ## Installation Steps
 
@@ -93,29 +93,28 @@ Open osTicket v1.15.8 from your Installation Files Folder, extract and copy the 
 
 ![Image](https://i.imgur.com/5LmJK6m.png)
  
-Once the server has been effectively restarted, go to "Sites" -> "Default Web Site" -> (Double-Click) "osTicket" -> Browse *80.
+Once the server has been effectively restarted, go to **Sites** -> **Default Web Site** -> (Double-Click) **osTicket** -> Browse on *80.
 
-If you did everything correctly, you should have landed on the osTicket webpage. If not, just double-check the steps or give the tutorial another go.
+If you have done everything correctly, you should have landed on the osTicket webpage. If not, please double-check the steps or give the tutorial another try.
  
 
 ![Image](https://i.imgur.com/q7FWute.png)
   
-NOTE: some php extensions are disabled (with red Xs) to enable php extensions go back to IIS 
+NOTE: Some PHP extensions are disabled (indicated by red Xs). To enable PHP extensions, return to IIS.
 
 ![Image](https://i.imgur.com/wIxbfWQ.png)
 
-Sites -> Default Web Site -> osTicket -> php manager (double-click) -> Click on PHP extensions
+**Default Web Site** -> **osTicket** -> **PHP Manager** (double-click) -> Click on **PHP Extensions**.
 
 Scroll down list to find:
 
-Php_imap.dil
+**Php_imap.dil**
 
-Php_intl.dil
+**Php_intl.dil**
 
-Php_opache.dil
+**Php_opache.dil**
 
-click enable extensions and Restart the server
-
+Click **Enable Extensions** and then restart the server.
 ![Image](https://i.imgur.com/NhggCtk.png)
  
 Before pressing continue in osTicket, we will return to the Downloads folder to install HeidiSQL ->
