@@ -12,7 +12,7 @@ In this tutorial, we will guide you through the step-by-step installation proces
 ## Environments and Technologies Used
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Remote Desktop Connection (RDC)
 - Internet Information Services (IIS)
 - MySQL
 
