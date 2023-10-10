@@ -117,20 +117,19 @@ Scroll down list to find:
 Click **Enable Extensions** and then restart the server.
 ![Image](https://i.imgur.com/NhggCtk.png)
  
-Before pressing continue in osTicket, we will return to the Downloads folder to install HeidiSQL ->
-After Installation, HeidiSQL will launch (Let it install itself in the C: Drive for ease, then press next for the remaining options)
+Before pressing "Continue" in osTicket, we will return to the Downloads folder to install HeidiSQL. After installation, HeidiSQL will launch. Let it install itself in the C: Drive for ease, and then press "Next" for the remaining options.
 
 ![Image](https://i.imgur.com/28qtUOW.png)
 
 ![Image](https://i.imgur.com/ZubiYLY.png)
 
-New -> Enter password we created earlier for mysql (example: Password1)-> Open -> Right Click Unamed -> Create New -> Database (Name it osTicket) -> OK
+Go to**New** -> Enter the password we created earlier for MySQL (e.g., Password1) -> **Open** -> Right-click **Unnamed** -> **Create New** -> **Database** (Name it osTicket) -> **OK**.
 
 ![Image](https://i.imgur.com/FlgO5Z5.png)
 
 Rename ost-sampleconfig.php to ost-config.php
 
-Windows (C:) Drive -> inetpub -> wwwroot -> osTicket -> include -> Right click on ost-sampleconfig.php and rename it to ost-config.php
+Windows (C:) Drive -> inetpub -> wwwroot -> osTicket -> include -> Right click on ost-sampleconfig.php and rename it to "ost-config.php"
 
 ![Image](https://i.imgur.com/NVQhD5Q.png)
 
@@ -138,22 +137,21 @@ Windows (C:) Drive -> inetpub -> wwwroot -> osTicket -> include -> Right click o
 
 Assigning Permissions:
 
-Right click on ost-config.php -> Properties -> Security -> Advanced -> Disable Inheritance -> Remove all inherited positions from this object -> Select Permissions (It's next to Auditing and Effective Access) -> Add -> Select a Principal > Type: Everyone > Check Names > OK -> [√] Full control (It will check the other boxes as well and that's ok) -> OK
-
+Right-click on ost-config.php -> **Properties** -> **Security** -> **Advanced** -> **Disable Inheritance** -> **Remove all inherited permissions from this object** -> Select **Permissions** (It's next to Auditing and Effective Access) -> **Add** -> Select a Principal > Type: Everyone > **Check Names** > **OK** -> [√] Full control (It will check the other boxes as well, and that's okay) -> **OK**.
 
 ![Image](https://i.imgur.com/Pu7Dgs5.png)
 
-We will now return to osTicket to finish up the Prerequisites. Press continue and now to fill in the HELP DESK information. 
+We will now return to osTicket to complete the remaining prerequisites. Press "Continue" to proceed and fill in the HELP DESK information.
 
 ![Image](https://i.imgur.com/Jx6wON4.png)
 
-Remember when filling out the Help Desk information that we already created a password and database for mysql and "root" will always be the username. Press Install and you will just need to commence clean-up
+Remember, when filling out the Help Desk information, we have already created a password and database for MySQL, and "root" will always be the username. Press "Install," and you will only need to proceed with the cleanup.
 
 ![Image]( https://i.imgur.com/Pu7Dgs5.png)
   
-The Clean up phase is quite simple, we are going to delete the setup and change permissions back to read only
+The cleanup phase is quite simple; we are going to delete the setup and change permissions back to read-only.
 
-To delete setup folder go to: C:\inetpub\wwwroot\osTicket\setup highlight "setup" then delete it
+To delete setup folder go to: C:\inetpub\wwwroot\osTicket\setup highlight "setup" then delete it.
 
 To change permissions go go to: Windows (C:) Drive -> wwwroot -> osTicket -> Include -> scroll down to find ost-config.php and Right click on Properties -> Security -> Advanced -> Click on Everyone -> Edit to Read only -> OK -> Apply
 
