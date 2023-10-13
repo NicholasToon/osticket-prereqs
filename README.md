@@ -161,5 +161,5 @@ To change permissions go go to: Windows (C:) Drive -> wwwroot -> osTicket -> Inc
 
 Finally. Sign in to osTicket: http://localhost/osTicket/scp/login.php
 
-Congratulations, you have succssefully installed osTicket! For post-configuration click [here](https://github.com/NicholasToon/osTicket-Post-Installation-Configuration). Thank you for your time.
+## Congratulations, you have succssefully installed osTicket! For post-configuration click [here](https://github.com/NicholasToon/osTicket-Post-Installation-Configuration). Thank you for your time.
 
