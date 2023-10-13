@@ -18,7 +18,7 @@ In this tutorial, we will guide you through the step-by-step installation proces
 
 ## Operating Systems Used 
 
-- Windows (21H2)
+- Windows 10 Pro (22H2)
 
 ## Installation Steps
 
