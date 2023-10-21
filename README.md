@@ -2,6 +2,8 @@
 
 # osTicket - Prerequisites and Installation
 
+*Always delete your resource groups and other environments in Azure to avoid incurring any unwanted charges on your free credits or actual money. Keep resources open at your own discretion.*
+
 In this tutorial, we will guide you through the step-by-step installation process of osTicket and the essential prerequisites required for a successful setup. We've chosen Azure VM (Virtual Machine) as the platform for installation. It is assumed that you already have a VM ready and have logged in using a remote desktop connection. If you haven't created a VM yet, kindly do so before proceeding to the next step. If you are unsure how to do so, you can find instructions [here](https://github.com/NicholasToon/Creating-Resource-Groups-and-Deploying-Virtual-Machines-in-Azure). To begin, please click the provided link to access the [installation files](https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6).
 
 (If you are having trouble downloading PHP 7.3.8, download and install Google Chrome and perform it from within there.)
